@@ -37,8 +37,8 @@ At install time you pick a target device with your volume keys — no manual edi
 
 ## Requirements
 
-- Rooted device running Magisk, KernelSU (or KernelSU Next), or APatch
-- `getevent` available on-device (used to read volume-key input during install)
+- Rooted device running Root Manager.
+- `getevent` available on-device (used to read volume-key input during install).
 
 ## Installation
 
