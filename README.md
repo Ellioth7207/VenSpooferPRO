@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/FbJ7Lf1T/quality-restoration-20260920151110781.jpg" alt="VenSpooferPRO" width="100%">
+  <img src="https://i.ibb.co.com/kspLdtWP/file-00000000ffc481fd8eba219be81d57e0.png" alt="VenSpooferPRO" width="100%">
 </div>
 
 <div align="center">
