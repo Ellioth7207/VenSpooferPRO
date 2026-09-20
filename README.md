@@ -24,7 +24,7 @@ At install time you pick a target device with your volume keys — no manual edi
 - **Boot notification** — shows the currently active spoofed device once boot completes
 - **Safe validation** — install aborts cleanly if the device menu can't run (no `getevent`) or the selected profile is missing, instead of leaving the device half-configured
 
-## Supported Devices
+## Available Spoofing
 
 | # | Device | Chipset |
 | --- | --- | --- |
