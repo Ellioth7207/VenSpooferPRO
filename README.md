@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center"><sub>Interactive device &amp; Spoofer for Unlock GAME Graphic & Fps.</sub></p>
+<p align="center"><sub>Interactive device Spoofer for Unlock GAME Graphic & Fps.</sub></p>
 
 ## What It Does
 
