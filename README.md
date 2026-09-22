@@ -28,7 +28,7 @@ At install time you pick a target device with your volume keys — no manual edi
 
 | # | Device | Chipset |
 | --- | --- | --- |
-| 1 | Infinix GT 50 Pro | Dimensity 8400 Ultra |
+| 1 | Infinix GT 50 Pro | Dimensity 8400 Ultimate |
 | 2 | RedMagic 11 Pro+ | Snapdragon 8 Elite Gen 5 |
 | 3 | Realme P3 5G | Snapdragon 6 Gen 4 |
 | 4 | Xiaomi 14T | Dimensity 8300 Ultra |
